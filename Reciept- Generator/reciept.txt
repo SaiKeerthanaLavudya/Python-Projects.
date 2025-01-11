@@ -1,0 +1,12 @@
+*************************  Template Store  *************************
+
+1). 	 denim pant   of code  2004  of quantity  
+ 3  billed  3000x3units  =  
+ 	 Rs.9000  
+2). 	 denim pant  of code  2003  of quantity  
+ 2  billed  2000x2units  =  
+ 	 Rs.4000  
+
+
+!!! Your bill total is  Rs.13000 only . Thanks for shopping with us !!!
+
