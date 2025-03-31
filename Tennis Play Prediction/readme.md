@@ -68,7 +68,7 @@ The dataset contains **historical weather conditions** and whether tennis was pl
 ---
 
 ## 👨‍💻 About the Developer  
-This project is developed by **[Ramcharan Singh](https://github.com/RamcharanSinghRamavath)**, a **Machine Learning & Data Science Enthusiast**.  
+This project is developed by **[Sai Keerthana](https://github.com/SaiKeerthanaLavudya)**, a **Machine Learning & Data Science Enthusiast**.  
 
 ### 🔗 Connect with me:  
 - 🌎 **GitHub**: [github.com/SaiKeerthanaLavudya](https://github.com/SaiKeerthanaLavudya)  
